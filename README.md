@@ -1,1 +1,1 @@
-# colecao-receitascolecao-receitas
+# colecao-receitas
